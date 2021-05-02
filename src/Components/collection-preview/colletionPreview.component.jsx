@@ -1,6 +1,6 @@
 import React from "react"
 import "./colletionPreview.style.scss"
-import ColletionItem from "../colletion-item/colletion-item.component"
+import ColletionItem from "../collection-item/colletion-item.component"
 
 
 const ColletionPreview = ({title,items})=>(

@@ -2,7 +2,7 @@ import React from "react";
 import "./shoppage.style.scss";
 import SHOP_DATA from "./shop.data"
 
-import ColletionPreview from "../../Components/colletion-preview/colletionPreview.component"
+import ColletionPreview from "../../Components/collection-preview/colletionPreview.component"
 
 class ShopPage extends React.Component{
     constructor(props){
